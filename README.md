@@ -1,6 +1,6 @@
-##Salesforce Platform API Versions 7.0 through 20.0 Retirement
+## Salesforce Platform API Versions 7.0 through 20.0 Retirement
 
-###A Guide to Programmatic Validation of Salesforce Applications Consuming Legacy API Versions
+### A Guide to Programmatic Validation of Salesforce Applications Consuming Legacy API Versions
 
 Per the Salesforce Release Update as of the Summer '21 Release, API versions 7.0 to 20.0 will become retired and unavailable.
 
